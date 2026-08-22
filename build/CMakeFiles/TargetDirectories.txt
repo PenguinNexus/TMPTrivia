@@ -1,0 +1,3 @@
+/home/penguin/Documents/TMPTrivia/build/CMakeFiles/hello_plugin.dir
+/home/penguin/Documents/TMPTrivia/build/CMakeFiles/edit_cache.dir
+/home/penguin/Documents/TMPTrivia/build/CMakeFiles/rebuild_cache.dir

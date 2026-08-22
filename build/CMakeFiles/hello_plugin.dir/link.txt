@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/hello_plugin.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/hello_plugin.dir/objects.a @CMakeFiles/hello_plugin.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -shared -static -static-libgcc -static-libstdc++ -o libhello_plugin.dll -Wl,--out-implib,libhello_plugin.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles/hello_plugin.dir/objects.a -Wl,--no-whole-archive @CMakeFiles/hello_plugin.dir/linkLibs.rsp
